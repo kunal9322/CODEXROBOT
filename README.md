@@ -10,11 +10,6 @@
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴄᴏᴅᴇx ✘ ʀᴏʙᴏᴛ](https://t.me/TesttworOboT)**_
 ━━━━━━━━━━━━━━━━━━━━
-
-<p align="center">
-  <img src="https://te.legra.ph/file/c6a58e1aeb8198cf15345.jpg">
-</p>
-
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
