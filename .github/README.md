@@ -4,10 +4,6 @@
     ──「 ᴄᴏᴅᴇx ✘ ʀᴏʙᴏᴛ 」──
 </h2>
 
-<p align="center">
-  <img src="https://github.com/TheAnonymous2005/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
-</p>
-
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴄᴏᴅᴇx ✘ ʀᴏʙᴏᴛ](https://t.me/TesttworOboT)**_
 ━━━━━━━━━━━━━━━━━━━━
 
