@@ -71,7 +71,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
+         "value": "-1001698615095"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
@@ -89,7 +89,7 @@
          "value": ""
       },
       "DEV_USERS": {
-         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Fallen Support then keep the current ID's here at they are and add yours.",
+         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother CODEX Support then keep the current ID's here at they are and add yours.",
          "required": false,
          "value": "5375580821"
       },
@@ -141,9 +141,9 @@
          "value": "True"
       },
       "DONATION_LINK": {
-         "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
+         "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to BLACKHAT",
          "required": false,
-         "value": "https://t.me/anonymous_was_bot"
+         "value": "https://t.me/little_little_hackur"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
