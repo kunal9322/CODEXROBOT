@@ -9,13 +9,13 @@ from telethon import __version__ as s
 from CodexRobot import OWNER_USERNAME, dispatcher
 from CodexRobot import pbot as client
 
-ANON = "https://telegra.ph/file/7bd111132fce009e4605e.jpg"
+frag = "https://te.legra.ph/file/0b999e83868650681496a.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
 async def repo(client, message):
     await message.reply_photo(
-        photo=ANON,
+        photo=frag,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
 **» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [ʙʟᴀᴄᴋ ʜᴀᴛ](https://t.me/little_little_hackur)
