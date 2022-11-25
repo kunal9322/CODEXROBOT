@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/CodexRobot
-RUN git clone https://github.com/TheAnonymous2005/CodexRobot /root/CodexRobot
+RUN git clone https://github.com/kunal9322/CODEXROBOT /root/CodexRobot
 WORKDIR /root/CodexRobot
 
 #Copy config file to /root/CodexRobot/CodexRobot
