@@ -171,7 +171,7 @@ DEV_USERS.add(1356469075)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
-telethn = TelegramClient("Fallen", API_ID, API_HASH)
+telethn = TelegramClient("CodexRobot", API_ID, API_HASH)
 
 pbot = Client("CodexRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
